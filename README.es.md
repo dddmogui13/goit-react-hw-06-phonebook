@@ -11,7 +11,7 @@ Usa este repositorio de la organización GoIT como plantilla para crear el repos
 Para hacer esto, haz clic en `«Use this template»` y selecciona la opción
 `«Create a new repository»`, tal como se muestra en la imagen.
 
-![Creating repo from a template step 1](./assets/template-step-1.png)
+![Creatng repo from a template step 1](./assets/template-step-1.png)
 
 Para el siguiente paso deberás abrir la página para crear un nuevo repositorio. 
 Ponle nombre, asegúrate de que el repositorio sea público y haz clic en el botón
